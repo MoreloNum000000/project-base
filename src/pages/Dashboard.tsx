@@ -1,6 +1,7 @@
+// import DocumentationPage from "./DocumentationPage";
 
-const Dashboard = () => {
-  return <div>Bienvenido al Dashboard</div>;
-};
+// const Dashboard = () => {
+//   return <DocumentationPage/>;
+// };
 
-export default Dashboard;
+// export default Dashboard;
